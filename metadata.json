@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-23T11:14:42.587Z",
+  "resourceSlug": "structured-logging-fields-dotnet",
+  "title": "Structured logging fields checklist (.NET)",
+  "description": "A minimal schema and Serilog starter config that makes production incidents diagnosable in .NET services.",
+  "category": ".NET",
+  "pillar": "",
+  "canonicalResourceUrl": "https://matrixtrak.com/resources/structured-logging-fields-dotnet",
+  "primaryPostSlugs": [
+    "structured-logging-that-actually-helps-serilog-fields-that-matter"
+  ],
+  "secondaryRelatedPostSlugs": []
+}
