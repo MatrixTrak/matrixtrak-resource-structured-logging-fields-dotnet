@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:43.947Z",
+  "generatedAt": "2026-05-23T12:57:43.834Z",
   "resourceSlug": "structured-logging-fields-dotnet",
   "title": "Structured logging fields checklist (.NET)",
   "description": "A minimal schema and Serilog starter config that makes production incidents diagnosable in .NET services.",
